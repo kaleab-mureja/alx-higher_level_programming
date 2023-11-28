@@ -1,2 +1,1 @@
-#!/bin/bash
-python3 "$PYFILE"
+# Repo for all assignments using higher level programming languages.
